@@ -1,6 +1,6 @@
 ---
 layout: item
-format: document
+format: Role Terminated
 title: "ACLS Digital Justice Development Grant"
 author: "DigitalArc Platform Team"
 contributor: "DigitalArc Platform Team"

@@ -49,7 +49,7 @@ title: "Banned Studies Archive"
 subtitle: ""
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: ""
+description: "This is an archive of banned class syllabi in the United States."
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
@@ -64,7 +64,7 @@ placeholderimg: "placeholder.png"
 sitedate : 2026
 
 # Other community social media. Leave blank if you don't have these.
-email : "s.purcell90@gmail.com"
+email : "bannedstudies@proton.me"
 website : ""
 twitter : ""
 github : "BannedStudies"
@@ -167,7 +167,7 @@ collections:
 # This URL is the main address for absolute links. This will usually be blank.
 url: 
 # If this archive will be in a folder (kalanicraig.com/digitalarcplatform/) instead of in its own main site (digitalarcplatform.github.io) add that folder name here. This will usually be blank. Use a forward slash before the folder name but not after, like so baseurl: '/foldername'
-baseurl: 
+baseurl: /archive
 
 # This URL points directly to the images directory. It needs a slash at the end.
 #
