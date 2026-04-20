@@ -1,17 +1,14 @@
 ---
-title: IDAH Community Archiving Template
+title: Banned Studies Home
 layout: homepage
 permalink: /
 ---
 
-The Archiving Out of the Box team supports community storytelling with a  digital archiving and storytelling kit. This demo site has examples of 3 different kinds of community contributions: scanned/screencaptured documents, photos of objects, and vidoes.
+The Banned Studies Archive is an open-access platform collecting syllabi banned in the United States due to state-level changes to curriculum that outlaw or remove courses related to gender studies, critical race theory, or other disciplines and conversations which right-wing figureheads deem dangerous to teach.
 
-Visit our main site for information on how to build relationships, hold community-storytelling collection events, build the collection using our template site, and use community stories for practical community-improvement projects.
+The goal of this archive is to be an open-access location for those interested in learning about the banned curriculum, as well as a resource for learners who are looking for resources and readings associated with these banned perspectives.
 
-Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
+**If you are an educator who wishes to submit a syllabus, please fill out this form [ADD A LINK].** If you wish to submit more than one syllabus, please directly email the Banned Studies Archive team at bannedstudies at proton dot me .
 
-Principal Project Team:
-- Michelle Dalmau
-- Vanessa Elias
-- Kalani Craig
-- Jazma Sutton
+Please forward any questions to bannedstudies at proton dot me.
+
