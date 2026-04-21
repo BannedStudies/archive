@@ -53,8 +53,8 @@ description: "This is an archive of banned class syllabi in the United States."
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "SeanPurcell"
-authorname : "Sean Purcell"
+author: "Banned Studies"
+authorname : "Banned Studies Archive"
 
 # To change the photo on your homepage, open the assets folder in your Github repo, then open the img folder. Upload a photo there. Add only the name of the photo and its extension here. E.g. "alternate_logo.png")
 sitelogo: "site_logo.png"
