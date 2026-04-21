@@ -4,4 +4,6 @@ If you wish to submit to the BSA, please fill out (this form)[https://forms.gle/
 
 More information about this project will be released as the project develops.
 
-# This site based on [The Digital Arc platform Jekyll Theme]([https://digital.kalanicraig.com/](http://digitalarcplatform.kalanicraig.com))
+--//--
+
+This site based on [The Digital Arc platform Jekyll Theme]([https://digital.kalanicraig.com/](http://digitalarcplatform.kalanicraig.com))
