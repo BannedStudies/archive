@@ -1,5 +1,5 @@
 ---
-title: Our Collection
+title: Syllabus Archives
 layout: collection
 permalink: /collection
 ---
